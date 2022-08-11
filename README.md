@@ -21,6 +21,8 @@
 
 ## :technologist: About me :
 
+Computer enthusiast and continuous learning. Programming motivates me since I feel like creating small pieces of code that will be useful and used with a purpose, I hope to work in an environment that keeps me constantly learning, contributing knowledge and giving my best.
+
 <hr></hr>
 
 ## :hammer_and_wrench: Languages and Tools :
